@@ -1,7 +1,10 @@
 # emby走代理
+# DOMAIN, 精确匹配主站
+# DOMAIN-SUFFIX, 匹配所有子域名
 
 DOMAIN,hdz.180o.222321.xyz
 DOMAIN,hdz.222321.xyz
+DOMAIN,jj88,rmzb.xyz
 DOMAIN,emby.younoyes.com
 DOMAIN,cdnemby.hikeba.de
 DOMAIN,emby1.69yun69.com

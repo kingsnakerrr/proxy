@@ -53,6 +53,7 @@ DOMAIN-SUFFIX,tanhuatv.site
 DOMAIN-SUFFIX,link00.okemby.org
 DOMAIN-SUFFIX,akile.io
 DOMAIN-SUFFIX,sb.sb
+DOMAIN-SUFFIX,z-library.bz
 
 # 境外软件屏蔽通知走代理解决
 DOMAIN,identity.apple.com
